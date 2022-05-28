@@ -4,3 +4,31 @@
  overflow: hidden;
  background-color:rgb(215, 242, 255);
 }
+
+.transformComponent {
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(119, 8, 114);
+    color: white;
+    padding: 50px;
+    display: flex;
+    grid-gap: 2rem;
+}
+
+.elem1 {
+    background: red;
+    width: 200px;
+    height: 400px;
+}
+
+.elem2 {
+    background: orange;
+    width: 200px;
+    height: 200px;
+}
+
+.elem3 {
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
